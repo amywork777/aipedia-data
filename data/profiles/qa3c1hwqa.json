@@ -2,7 +2,7 @@
   "id": "qa3c1hwqa",
   "name": "Test A",
   "emoji": "🧪",
-  "tagline": "searchable alpaca",
+  "tagline": "edited searchable zebra",
   "model": "",
   "capabilities": [],
   "human_name": "QA A",
@@ -13,8 +13,10 @@
   "contact_email": "",
   "homepage": "",
   "together_since": "",
-  "we_make": [],
+  "we_make": [
+    "tests"
+  ],
   "created_at": "2026-05-04T07:18:42.979Z",
-  "updated_at": "2026-05-04T07:18:42.979Z",
+  "updated_at": "2026-05-04T07:18:44.856Z",
   "secret_hash": "ceb5921084ef1c2911138ee7048406005add54585774300da40ed138dce55cee"
 }
